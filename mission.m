@@ -146,3 +146,6 @@ decodedtext1 = A1BTextdecode (filteredoutput(1,:),fs);
 decodedtext2 = A1BTextdecode (filteredoutput(4,:),fs);
 decodedtext3 = A1BTextdecode (filteredoutput(5,:),fs);
 decodedtext = [decodedtext1 newline decodedtext3 newline decodedtext2];
+
+
+%Big Gay
